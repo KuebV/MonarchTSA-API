@@ -1,1 +1,10 @@
-{"Version":"1.0.0","Changes":["Added TextMeshPro","Added better API Processing"],"DateReleased":"10/27/2021","UNIXRelease":1635375680}
+{
+  "Version": "1.0.0-ALPHA",
+  "Changes": [
+    "Added TextMeshPro",
+    "Added Changelog API",
+    "Fixed Debug Menu"
+  ],
+  "DateReleased": "10/27/2021",
+  "UNIXRelease": 1635377404
+}

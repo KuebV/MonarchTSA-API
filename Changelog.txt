@@ -1,6 +1,1 @@
-Current Version: 1.0
-ADD Added Main Menu
-ADD Added Secret Debug UI
-ADD Added Pause Menu
-ADD Added Terrible Changelog API
-CHANGE Revamped some scripts
+{"Version":"1.0.0","Changes":["Added TextMeshPro","Added better API Processing"],"DateReleased":"10/27/2021","UNIXRelease":1635375680}

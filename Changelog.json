@@ -5,8 +5,11 @@
     "Added Pause Menu",
     "Added Debug Menu w/ FPS",
     "Added Dynamic Changelog API",
-    "Reworked Scripts"
+    "Reworked some scripts",
+    "Added TextMeshPro (TMP)",
+    "Started TileMap Generation",
+    "Started Item Framework"
   ],
   "DateReleased": "10/27/2021",
-  "UNIXRelease": 1635381587
+  "UNIXRelease": 1635384066
 }

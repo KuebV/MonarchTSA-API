@@ -8,8 +8,9 @@
     "Reworked some scripts",
     "Added TextMeshPro (TMP)",
     "Started TileMap Generation",
-    "Started Item Framework"
+    "Started Item Framework",
+    "Commited Arson"
   ],
-  "DateReleased": "10/27/2021",
+  "DateReleased": "10/28/2021",
   "UNIXRelease": 1635384066
 }

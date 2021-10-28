@@ -1,10 +1,12 @@
 {
   "Version": "1.0.0-ALPHA",
   "Changes": [
-    "Added TextMeshPro",
-    "Added Changelog API",
-    "Fixed Debug Menu"
+    "Added Main Menu",
+    "Added Pause Menu",
+    "Added Debug Menu w/ FPS",
+    "Added Dynamic Changelog API",
+    "Reworked Scripts"
   ],
   "DateReleased": "10/27/2021",
-  "UNIXRelease": 1635377404
+  "UNIXRelease": 1635381587
 }

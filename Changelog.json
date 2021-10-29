@@ -1,16 +1,12 @@
 {
-  "Version": "1.0.0-ALPHA",
+  "Version": "1.0.1-ALPHA",
   "Changes": [
-    "Added Main Menu",
-    "Added Pause Menu",
-    "Added Debug Menu w/ FPS",
-    "Added Dynamic Changelog API",
-    "Reworked some scripts",
-    "Added TextMeshPro (TMP)",
-    "Started TileMap Generation",
-    "Started Item Framework",
-    "Commited Arson"
+    "Replaced Text with TMPro",
+    "Added Inventory Framework",
+    "Fixed Formatting",
+    "Added Loading Screen",
+    "More API Updates"
   ],
-  "DateReleased": "10/28/2021",
-  "UNIXRelease": 1635384066
+  "DateReleased": "Pause Menu Reworked",
+  "UNIXRelease": 1635471091
 }

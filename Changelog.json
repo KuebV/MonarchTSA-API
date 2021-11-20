@@ -1,12 +1,11 @@
 {
-  "Version": "1.0.1-ALPHA",
+  "Version": "1.0.2-ALPHA",
   "Changes": [
-    "Replaced Text with TMPro",
-    "Added Inventory Framework",
-    "Fixed Formatting",
-    "Added Loading Screen",
-    "More API Updates"
+    "Astrology started",
+    "Edited Play Button",
+    "Reworked some scripts",
+    "Reviewed some code"
   ],
-  "DateReleased": "10/28/2021",
-  "UNIXRelease": 1635471091
+  "DateReleased": "11/20/2021",
+  "UNIXRelease": 1637438483
 }

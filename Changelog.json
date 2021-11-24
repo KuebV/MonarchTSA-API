@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.2-ALPHA",
+  "Version": "1.0.3-ALPHA",
   "Changes": [
-    "Astrology started",
-    "Edited Play Button",
-    "Reworked some scripts",
-    "Reviewed some code"
+    "Reworked Archeology Scripts",
+    "Fixed Sizing issues for main menu",
+    "Added MEC",
+    "Added Placeholder Prefabs"
   ],
-  "DateReleased": "11/20/2021",
-  "UNIXRelease": 1637438483
+  "DateReleased": "11/24/2021",
+  "UNIXRelease": 1637785884
 }

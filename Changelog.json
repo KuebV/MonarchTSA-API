@@ -1,11 +1,13 @@
 {
-  "Version": "1.0.3-ALPHA",
+  "Version": "1.0.4-ALPHA",
   "Changes": [
-    "Reworked Archeology Scripts",
-    "Fixed Sizing issues for main menu",
-    "Added MEC",
-    "Added Placeholder Prefabs"
+    "Archeology:",
+    "Added Hotbar",
+    "Added random fossil spawning",
+    "Reworked Scripts",
+    "Changed Prefabs",
+    "Added Placeholder Icons"
   ],
-  "DateReleased": "11/24/2021",
-  "UNIXRelease": 1637785884
+  "DateReleased": "11/25/2021",
+  "UNIXRelease": 1637874134
 }

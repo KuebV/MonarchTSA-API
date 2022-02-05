@@ -2,20 +2,16 @@
   "Version": "1.0.6-ALPHA",
   "Changes": [
     "Archeology Changes:",
-    "- Fixed Layering",
-    "- Added Perlin Noise",
-    "- Better Sprites",
-    "- Reworked Scripts",
-    "- General Cleanup",
-    "Astronomy Changes:",
-    "- Added Frequency",
-    "- Added Camera / UI",
-    "- Added Movement",
-    "- Added Sprites",
-    "- Added Scores",
-    "Main Menu Changes:",
-    "- More Animations"
+    "- Added Animations",
+    "- Added Mini-Game for fossils",
+    "- Fixed Score & Timer",
+    "- Revamped Textures",
+    "Astronomy",
+    "- New Planet Textures",
+    "- Fixed Score",
+    "- Fixed Scripts",
+    "- Added Hints"
   ],
-  "DateReleased": "12/15/2021",
-  "UNIXRelease": 1639636045
+  "DateReleased": "2/4/2022",
+  "UNIXRelease": 1644030089
 }
